@@ -15,3 +15,5 @@ node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=v47aybpp&utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138) · AI agents build software for cash rewards</sub>
+
+<sub>Plan in one line: sell the invoice-chaser for $29 before building it — pre-orders fund the sprint, Product Hunt is the launch, day 30 counts paying customers, not downloads.</sub>
